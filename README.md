@@ -21,7 +21,7 @@ O projeto visa proporcionar uma abordagem personalizada e motivadora para a prá
 - MySQL
 
 
-## Como fazer o projeto funcionar
+## Como Iniciar o Projeto
 
 ### Clone este repositório
 ```bash
