@@ -6,12 +6,12 @@ Bem-vindo ao ReFit, um Serious Game desenvolvido para promover a saúde e a incl
 O projeto visa proporcionar uma abordagem personalizada e motivadora para a prática de exercícios físicos, utilizando a gamificação para tornar a jornada mais envolvente.
 
 ### Tecnologias Utilizadas
-- Linguagem de Programação: Java
-- Banco de Dados: MySQL
-- Plataforma de Desenvolvimento: NetBeans e Workbench
-- Design de Interface: Figma
-- Controle de Versão: Git e Github
-- Gerenciamento de Projeto: Metodologia SCRUM
+- **Linguagem de Programação**: Java
+- **Banco de Dados**: MySQL
+- **Plataforma de Desenvolvimento**: NetBeans e Workbench
+- **Design de Interface**: Figma
+- **Controle de Versão**: Git e Github
+- **Gerenciamento de Projeto**: Metodologia SCRUM
 
 ### Pré-Requisitos: 
 - IDE de sua preferência (Recomenda-se NetBeans)
