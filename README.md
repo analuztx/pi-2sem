@@ -1,6 +1,6 @@
 # ReFit
 
-## Serious Game para Auixílio na Prática de Exercícios Físicos para Amputados
+# Serious Game para Auxílio na Prática de Exercícios Físicos para Amputados
 
 ### Sobre o projeto
 Bem-vindo ao ReFit, um Serious Game desenvolvido para promover a saúde e a inclusão de pessoas com amputação de membros inferiores.
